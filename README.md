@@ -1,2 +1,2 @@
-# Project_Telecom_Churn_analysis_00_
+# Project_Telecom_Churn_analysis_00
 Just start...
